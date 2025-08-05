@@ -44,7 +44,7 @@ The server operates with a database instance dedicated to a single project, elim
 2. **Install Turso CLI** (optional but recommended):
 
    ```bash
-   curl -sSfL https://get.turso.tech/install.sh | bash
+   curl -sSfL https://get.tur.so/install.sh | bash
    ```
 
 3. **Authenticate with Turso**:
